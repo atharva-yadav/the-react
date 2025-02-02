@@ -1,0 +1,26 @@
+{
+  "name": "the-react",
+  "version": "1.0.0",
+  "description": "This is a repository for react hands-on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharva-yadav/the-react.git"
+  },
+  "keywords": [
+    "react",
+    "atharva"
+  ],
+  "author": "Atharva Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharva-yadav/the-react/issues"
+  },
+  "homepage": "https://github.com/atharva-yadav/the-react#readme",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
